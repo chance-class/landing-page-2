@@ -59,6 +59,10 @@ button,
 .header {
   display: flex;
   align-items: baseline;
-  padding: 12px 0;
+  padding: 12px 200px;
   justify-content: space-between;
+}
+
+.hero {
+  padding: 100px 200px;
 }
