@@ -46,6 +46,8 @@ button,
 .info-head {
   font-size: 36px;
   color: #1F2937;
+  font-weight: 900;
+  text-align: center;
 }
 
 .testimonial {
@@ -78,4 +80,26 @@ button {
   font-weight: bold;
   padding: 8px 36px;
   border-radius: 8px;
+}
+
+.info {
+  padding: 42px 250px 70px;
+}
+
+.info-subtext {
+  display: flex;
+  padding-top: 42px;
+  gap: 42px;
+  justify-content: center;
+}
+
+.info-div {
+  width: 160px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.info-subtext > div > img {
+  border-radius: 12px;
+  border: 5px solid #3882F6;
 }
