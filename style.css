@@ -30,6 +30,7 @@ ul {
 .hero-second {
   font-size: 18px;
   color: #E5E7EB;
+  padding: 14px 0;
 }
 
 .logo {
@@ -65,4 +66,16 @@ button,
 
 .hero {
   padding: 100px 200px;
+  display: flex;
+  flex-shrink: 0;
+  gap: 35px;
+}
+
+button {
+  border: none;
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+  padding: 8px 36px;
+  border-radius: 8px;
 }
