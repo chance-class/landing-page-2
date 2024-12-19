@@ -128,7 +128,7 @@ button {
 }
 
 .bottom {
-  height: 300px;
+  height: 350px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -159,4 +159,12 @@ button {
 .sign-up-btn {
   padding: 8px 32px;
   border: 2px solid #F9FAF8;
+}
+
+.footer {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
 }
