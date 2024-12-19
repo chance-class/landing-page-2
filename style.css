@@ -52,11 +52,23 @@ button,
 
 .testimonial {
   background-color: #E5E7EB;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 75px 0 90px;
 }
 
 .quote {
   font-size: 36px;
   color: #1F2937;
+  width: 770px;
+}
+
+.quote-a {
+  width: 675px;
+  text-align: right;
+  font-weight: bold;
+  font-size: 24px;
 }
 
 .header {
