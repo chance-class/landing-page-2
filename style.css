@@ -1,0 +1,52 @@
+/* body {
+  font-family: Roboto, sans-serif;
+} */
+
+.container-top,
+.footer {
+  background: #1F2937;
+  color: #F9FAF8;
+}
+
+a {
+  text-decoration: none;
+  color: #E5E7EB;
+}
+
+ul {
+  list-style: none;
+}
+
+.hero-main {
+  font-weight: 900;
+  font-size: 48px;
+}
+
+.hero-second {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+.logo {
+  font-size: 24px;
+  color: #F9FAF8;
+}
+
+button, 
+.sign-up {
+  background-color: #3882F6;
+}
+
+.info-head {
+  font-size: 36px;
+  color: #1F2937;
+}
+
+.testimonial {
+  background-color: #E5E7EB;
+}
+
+.quote {
+  font-size: 36px;
+  color: #1F2937;
+}
