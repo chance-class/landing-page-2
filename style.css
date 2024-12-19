@@ -15,6 +15,11 @@ a {
 
 ul {
   list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  gap: 16px;
 }
 
 .hero-main {
@@ -49,4 +54,11 @@ button,
 .quote {
   font-size: 36px;
   color: #1F2937;
+}
+
+.header {
+  display: flex;
+  align-items: baseline;
+  padding: 12px 0;
+  justify-content: space-between;
 }
